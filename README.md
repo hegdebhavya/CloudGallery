@@ -12,7 +12,7 @@
 
 <hr>
 
- # [CloudGallery](https://cloudgallery.space/)
+ # CloudGallery
  
 CloudGallery is a web application with user login and registration feature which allows user's to upload, download, update the files. 
 CloudAdmin feature where admin can view , edit and delete files updated by any user.
