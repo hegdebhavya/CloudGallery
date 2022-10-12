@@ -6,9 +6,9 @@
 
 * Course : Cloud Technologies- CMPE281
 
-* Professor : Sanjay Garje
+* Professor : [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
 
-* Student : Bhavya Hegde 
+* Student : [Bhavya Hegde](www.linkedin.com/in/bhavya-hegde-145b9b123)
 
 <hr>
 
