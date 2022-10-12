@@ -8,7 +8,7 @@
 
 * Professor : [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
 
-* Student : [Bhavya Hegde](www.linkedin.com/in/bhavya-hegde-145b9b123)
+* Student : [Bhavya Hegde](https://www.linkedin.com/in/bhavya-hegde-145b9b123/)
 
 <hr>
 
