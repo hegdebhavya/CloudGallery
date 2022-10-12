@@ -36,10 +36,10 @@ CloudAdmin feature where admin can view , edit and delete files updated by any u
 * Delete the image
 * Logout
 
-##Additional features
+## Additional features
 * Delivery of user private data using CloudFront Signed cookies generated for individual users
 * Secure cookie setting
-* TLS certificates for secure activity
+* TLS certificates for secure connectivity
 
 
 
