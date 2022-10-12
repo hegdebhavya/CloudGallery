@@ -45,4 +45,6 @@ CloudAdmin feature where admin can view , edit and delete files updated by any u
   
   
  ## Architecture Diagram
+ <img width="658" alt="Architecture Diagram" src="https://user-images.githubusercontent.com/85700971/195241871-2cb92f2e-e0c5-4a26-8c46-fc5172fc0fa1.png">
+
  
