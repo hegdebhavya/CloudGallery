@@ -14,8 +14,7 @@
 
  # CloudGallery
  
-CloudGallery is a web application with user login and registration feature which allows user's to upload, download, update the files. 
-CloudAdmin feature where admin can view , edit and delete files updated by any user.
+CloudGallery is a web application written in Django python using AWS services. It allows user registration and authentication, once user is authenticated it allows them to upload, download, update the files. CloudAdmin feature provides an admin view where an admin user can view, edit, and delete files updated by any user. The CloudAdmin also gets regular updates regarding the file activity using AWS SNS feature. We use CloudFront signed cookies to deliver user’s private data.
 
 ## User Features:
 * Register to CloudGallery application
