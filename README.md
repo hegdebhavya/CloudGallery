@@ -61,7 +61,8 @@ CloudAdmin feature where admin can view , edit and delete files updated by any u
  <img width="468" alt="detail_view" src="https://user-images.githubusercontent.com/85700971/195531618-0bb8eff5-97aa-4b98-a49d-389da429e00a.png">
  
  ## User View :
- <img width="468" alt="User_View" src="https://user-images.githubusercontent.com/85700971/195531710-65d2e447-b6fd-4569-b034-c55ff0c20619.png">
+ <img width="854" alt="2022-10-13 00_43_29-Gallery" src="https://user-images.githubusercontent.com/85700971/195533857-ac8ed53b-09af-4468-b425-f04181adb16b.png">
+
  
  ## File upload view :
  <img width="468" alt="upload_view" src="https://user-images.githubusercontent.com/85700971/195531885-077f8f70-a469-43ea-ae78-efe192f77fb6.png">
