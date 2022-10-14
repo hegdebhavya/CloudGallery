@@ -10,7 +10,7 @@
 
 * Student : [Bhavya Hegde](https://www.linkedin.com/in/bhavya-hegde-145b9b123/)
 
-* Demo video link :[cloud gallery Demo video] (https://drive.google.com/file/d/1lo59FqwBBHVXt60RVM-rAbqIIjpQpEsD/view?usp=sharing)
+* Demo video link :https://drive.google.com/file/d/1lo59FqwBBHVXt60RVM-rAbqIIjpQpEsD/view?usp=sharing
 
 <hr>
 
